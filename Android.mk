@@ -9,3 +9,4 @@ LOCAL_SRC_FILES := google-play-services.jar
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_SDK_VERSION := current
 include $(BUILD_PREBUILT)
+
