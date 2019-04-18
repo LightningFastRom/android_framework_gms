@@ -1,2 +1,2 @@
 # android_framework_gms
-Prebuilt Google Play Services framework from android studio
+Prebuilt Google Play Services framework from Android Studio for using Android Studio app in your rom
